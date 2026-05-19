@@ -89,8 +89,7 @@ README.md
 ---
 
 ## 👨‍💻 Author
-
-* Your Name
+SONAM SHARAN
 
 ---
 
